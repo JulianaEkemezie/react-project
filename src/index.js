@@ -4,10 +4,10 @@ import App from "./App";
 
 function SearchEngine() {
   return ( <div>
-     <App />;
+     <App />
 
 
-    <a href="https://github.com/JulianaEkemezie/react-project" target="_blank">Coded by Juliana Ekemezie</a>
+    <a href="https://github.com/JulianaEkemezie/react-project" target="_blank" rel="noreferrer">Coded by Juliana Ekemezie</a>
   </div>)
 }
 const rootElement = document.getElementById("root");
